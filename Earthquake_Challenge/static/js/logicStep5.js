@@ -35,8 +35,6 @@ let map = L.map('mapid', {
   layers: [satelliteStreets]
 })
 
-// Pass our map layers into our layers control and add the layers control to the map.
-L.control.layers(baseMaps).addTo(map);
 
 
   // Create the earthquake layer for our map.
