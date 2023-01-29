@@ -12,4 +12,4 @@ In the images above, it shows two of the different styles of map box styles that
 
 ## Summary
 
-Through the imagery of the maps created, we are able to see a direct correlation between the tectonic plates and earthquakes. The earthquakes not only tend to be more frequent nearing the tectonic plates but also more likely to be large earthquakes. Although earthquakes do appear away from the tectonic lines, they are rarer and mostly minor.
+Through the imagery of the maps created, we are able to see a direct correlation between the tectonic plates and earthquakes. The earthquakes not only tend to be more frequent nearing the tectonic plates but also more likely to be large earthquakes. Although earthquakes do appear away from the tectonic plates, they are rarer and mostly minor. Something else that may be instresting that may be worth looking into is why certain earthquakes away from the tectonic plates occur frequently in certain places; an example of this would be the earthquakes over the border of Texas in the images of the maps above.
